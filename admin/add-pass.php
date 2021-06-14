@@ -98,13 +98,11 @@ echo "<script>window.location.href ='add-pass.php'</script>";
     <div class="form-group"> <label for="exampleInputEmail1">Email Address</label> <input type="email" name="email" value="" class="form-control" required='true'> </div>
     <div class="form-group"> <label for="exampleInputEmail1">Identity Type</label><select type="text" name="identitytype" value="" class="form-control" required='true'>
 <option value="">Choose Identity Type</option>
-<option value="Voter Card">Voter Card</option>
-<option value="PAN Card">PAN Card</option>
-<option value="Adhar Card">Adhar Card</option>
+<option value="CIN Number">CIN Number</option>
 <option value="Student Card">Student Card</option>
 <option value="Driving License">Driving License</option>
 <option value="Passport">Passport</option>
-<option value="Any Official Card">Any Official Card</option>
+
 <option value="Any Other Govt Issued Doc">Any Other Govt Issued Doc</option>
      </select></div>
     <div class="form-group"> <label for="exampleInputEmail1">Identity Card No.</label> <input type="text" name="icnum" value="" class="form-control" required='true'> </div>
