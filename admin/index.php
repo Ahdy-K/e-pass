@@ -46,7 +46,7 @@ echo "<script>alert('Invalid Details');</script>";
 <head>
  
     <title>Curfew Pass Management System | Login Page</title>
-    <!-- Core CSS - Include with every page -->
+    <!--  CSS - Include with every page -->
     <link href="assets/plugins/bootstrap/bootstrap.css" rel="stylesheet" />
     <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link href="assets/plugins/pace/pace-theme-big-counter.css" rel="stylesheet" />

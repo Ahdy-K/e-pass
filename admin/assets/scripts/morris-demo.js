@@ -1,5 +1,4 @@
 
-//morris area chart
 
 $(function () {
 
